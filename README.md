@@ -10,6 +10,15 @@ This project involves developing a machine learning model to predict whether stu
 - **Test Scores**: Average test scores before the final exam.
 - **Pass/Fail**: Binary outcome indicating pass (1) or fail (0).
 
+* Github Repo: https://github.com/harish201105/GithubSRM/
+
+
+## Output Screenshots 
+
+![](/resources/img1.png)
+![](/resources/img2.png)
+
+
 ## Repository Structure
 
 ```
@@ -17,7 +26,7 @@ This project involves developing a machine learning model to predict whether stu
 ├── data
 │   └── student_data.csv      # Dataset file
 ├── notebooks
-│   └── model_training.ipynb  # Jupyter notebook for model training
+│   └── studentresultprediction.ipynb  # Jupyter notebook for model training
 ├── src
 │   └── datasetgeneration.py  # Python script to generate dataset
 ├── requirements.txt          # Python dependencies
@@ -35,7 +44,7 @@ This project involves developing a machine learning model to predict whether stu
 1. Clone the repository:
    ```bash
    git clone https://github.com/harish201105/GithubSRM.git
-   cd student-performance-prediction
+   cd GithubSRM 
    ```
 
 2. Install required Python packages:
