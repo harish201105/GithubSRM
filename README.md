@@ -54,7 +54,7 @@ This project involves developing a machine learning model to predict whether stu
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/model_training.ipynb
+   jupyter notebook notebooks/studentresultprediction.ipynb
    ```
 
 ### Usage
