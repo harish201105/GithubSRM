@@ -34,7 +34,7 @@ This project involves developing a machine learning model to predict whether stu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-performance-prediction.git
+   git clone https://github.com/harish201105/GithubSRM.git
    cd student-performance-prediction
    ```
 
